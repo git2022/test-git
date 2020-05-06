@@ -14,4 +14,4 @@ add a new line for 8th commit
 
 add a new line for 9th commit
 
-add a new line for 10t commit
+add a new line for 10th commit
